@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Hello GitHub Community*
+_Hello GitHub Community_
+
+**Hello GitHub Community**
+__Hello GitHub Community__
